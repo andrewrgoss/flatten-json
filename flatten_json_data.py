@@ -3,9 +3,7 @@ __author__ = 'agoss'
 
 """
 This package makes the assumption that our input JSON data has
-already been loaded into Python dictionaries, so this program just
-flattens those dictionaries as described in the README example. You do
-not need to read or write any JSON.
+already been loaded into Python dictionaries.
 """
 
 
