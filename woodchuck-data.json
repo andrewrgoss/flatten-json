@@ -1,0 +1,9 @@
+{
+    "name": "Cap'n Chuck",
+    "aliases": ["Chuck Force 1", "Whistlepig"],
+    "physical": {
+        "height_in": 27,
+        "weight_lb": 19
+    },
+    "wood_chucked_lbs": 2219
+}
